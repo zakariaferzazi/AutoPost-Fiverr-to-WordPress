@@ -20,8 +20,12 @@ Script actions steps:
 Libraries I use in this script :
 
 Tkinter : create GUI for script python.
+
 Selenium Webdriver : create autotest, scraping information from different websites like Fiverr.
+
 Pyautogui : Used to programmatically control the mouse & keyboard.
+
 Pickle : give you the option to save data like(email&pass of WordPress) into file.dat and use them later without entering it again and again.
+
 pyinstaller : make you able to convert your script.py to app.exe (work on any windows without IDLE).
 My English is not so good. so thank you for your visit I hope you contact me if you need anything.
